@@ -5,5 +5,7 @@
 2> I have provided a dataset which we feed to our algorithm so that it can learn to categorize feedbacks of the customers as positive or negative.
 <br>
 3> This model can also help a company or an organisation in Stratergy building, Data Analysis, etc.
+
 <br>
+
 Author - Harsh Sharma
